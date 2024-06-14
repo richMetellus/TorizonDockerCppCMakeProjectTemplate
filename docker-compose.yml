@@ -1,0 +1,15 @@
+version: "3.9"
+services:
+  quickstart-debug:
+    build:
+      context: .
+      dockerfile: Dockerfile.debug
+    image: ${LOCAL_REGISTRY}:5002/quickstart-debug:${TAG}
+    ports:
+      - 2230:2230
+
+  quickstart:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: ${DOCKER_LOGIN}/quickstart:${TAG}

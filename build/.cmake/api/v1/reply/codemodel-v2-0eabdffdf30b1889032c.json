@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.0.0"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "TorizonDockerCppCMakeProjectTemplate",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "TorizonDockerCppCMakeProjectTemplate::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-TorizonDockerCppCMakeProjectTemplate-Debug-c18523aa81010acae82f.json",
+					"name" : "TorizonDockerCppCMakeProjectTemplate",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/ricky-wsl/WSL_Workspace/Repos/Internal/TorizonDockerCppCMakeProjectTemplate/build",
+		"source" : "/home/ricky-wsl/WSL_Workspace/Repos/Internal/TorizonDockerCppCMakeProjectTemplate"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

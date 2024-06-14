@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/ricky-wsl/WSL_Workspace/Repos/Internal/TorizonDockerCppCMakeProjectTemplate/build",
+  "command": "/usr/bin/c++   -g -o CMakeFiles/TorizonDockerCppCMakeProjectTemplate.dir/src/main.cpp.o -c /home/ricky-wsl/WSL_Workspace/Repos/Internal/TorizonDockerCppCMakeProjectTemplate/src/main.cpp",
+  "file": "/home/ricky-wsl/WSL_Workspace/Repos/Internal/TorizonDockerCppCMakeProjectTemplate/src/main.cpp",
+  "output": "CMakeFiles/TorizonDockerCppCMakeProjectTemplate.dir/src/main.cpp.o"
+}
+]

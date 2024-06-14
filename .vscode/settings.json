@@ -1,0 +1,24 @@
+{
+  "torizon_psswd": "D3vKits",
+  "torizon_login": "torizon",
+  "torizon_ip": "192.168.0.14",
+  "torizon_ssh_port": "22",
+  "host_ip": "192.168.0.32",
+  "torizon_workspace": "${workspaceFolder}",
+  "torizon_debug_port": "",
+  "torizon_debug_ssh_port": "2230",
+  "torizon_debug_port2": "",
+  "torizon_debug_port3": "",
+  "torizon_gpu": "-vivante",
+  "torizon_arch": "aarch64",
+  "wait_sync": "1",
+  "torizon_run_as": "torizon",
+  "torizon_app_root": "/home/torizon/app",
+  "tcb.packageName": "TorizonDockerCppCMakeProjectTemplate",
+  "tcb.version": "3.8.1",
+  "torizon.gpuPrefixRC": false,
+  "terminal.integrated.defaultProfile.linux": "bash",
+  "docker.environment": {
+    "DOCKER_HOST": "tcp://192.168.0.14:2375"
+  }
+}
